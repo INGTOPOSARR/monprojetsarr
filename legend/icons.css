@@ -1,0 +1,44 @@
+.icon {
+	display: inline-block;
+	margin: 2px;
+	height: 16px;
+	width: 16px;
+	background-color: #ccc;
+}
+
+/* ICONS */
+.icon-1erordre {
+	background: url('images/icons/1erordre.png') center center no-repeat;
+}
+.icon-2emeordre {
+	background: url('images/icons/2emeordre.png') center center no-repeat;
+}
+.icon-rrs_dakar {
+	background: url('images/icons/rrs_dakar.png') center center no-repeat;
+}
+.icon-rrs_mbour {
+	background: url('images/icons/rrs_mbour.png') center center no-repeat;
+}
+.icon-rrs_matam {
+	background: url('images/icons/rrs_matam.png') center center no-repeat;
+}
+/* MARKERS */
+.leaflet-marker-icon {
+	padding: 2px;
+	text-align: center;
+}
+.marker-1erordre {
+	background: url('images/markers/1erordre.png') center center no-repeat;
+}
+.marker-2emeordre {
+	background: url('images/markers/2emeordre.png') center center no-repeat;
+}
+.marker-rrs_dakar {
+	background: url('images/markers/rrs_dakar.png') center center no-repeat;
+}
+.marker-rrs_mbour {
+	background: url('images/markers/rrs_mbour.png') center center no-repeat;
+}
+.marker-rrs_matam {
+	background: url('images/markers/rrs_matam.png') center center no-repeat;
+}
